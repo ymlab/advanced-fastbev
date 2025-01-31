@@ -4,6 +4,18 @@
 
 Please prepare the training environment according to [BEVDet](https://github.com/HuangJunJie2017/BEVDet?tab=readme-ov-file#get-started).  
 
+training script:
+
+```shell
+./tools/dist_train.sh configs/fastbev/paper/fastbev-r50-cbgs.py 8
+```
+
+test script:
+
+```shell
+./tools/dist_test.sh configs/fastbev/paper/fastbev-r50-cbgs.py work_dirs/fastbev-r50-cbgs/epoch_20_ema.pth 8 --eval mAP 2>&1 | tee work_dirs/fastbev-r50-cbgs/epoch_20_ema.pth.log
+```
+
 ## Main Results
 
 ![](./resources/fastbev++_exps.jpg)
