@@ -20,12 +20,11 @@ test script:
 
 ![](./resources/fastbev++_exps.jpg)
 
-## Inference latency
-
-Prepared ckpts: 
-
+## Model Zoo
 - [fastbev-r50-cbgs](https://drive.google.com/drive/folders/1AYtoX8XaNg8ZckFBgbo2TVmyXb26Dw2V?usp=sharing)
 - [fastbev-r50-cbgs-4d](https://drive.google.com/drive/folders/1XBcftoEn_2TkpG-qQAo66Oa8_hEnfoqi?usp=sharing)
+
+## Inference Latency
 
 Exported onnx: [Google Drive](https://drive.google.com/file/d/1qefFlah6PkKPtz0Zgh9aqn0rqITjU2C8/view?usp=sharing)
 
