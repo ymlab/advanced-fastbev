@@ -1,10 +1,19 @@
 # FastBEV++
 
+## Get Started
+
+Please prepare the training environment according to [BEVDet](https://github.com/HuangJunJie2017/BEVDet?tab=readme-ov-file#get-started).  
+
 ## Main Results
 
 ![](./resources/fastbev++_exps.jpg)
 
 ## Inference latency
+
+Exported onnx: [Google Drive](https://drive.google.com/file/d/1qefFlah6PkKPtz0Zgh9aqn0rqITjU2C8/view?usp=sharing)
+
+![](./resources/fastbev++_onnx_arch.jpg)
+
 ![](./resources/fastbev++_latency.jpg)
 
 ## Acknowledgement
