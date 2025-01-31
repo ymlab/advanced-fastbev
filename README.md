@@ -18,6 +18,11 @@ test script:
 
 ## Main Results
 
+Prepared ckpts: 
+
+- [fastbev-r50-cbgs](https://drive.google.com/drive/folders/1AYtoX8XaNg8ZckFBgbo2TVmyXb26Dw2V?usp=sharing)
+- [fastbev-r50-cbgs-4d](https://drive.google.com/drive/folders/1XBcftoEn_2TkpG-qQAo66Oa8_hEnfoqi?usp=sharing)
+
 ![](./resources/fastbev++_exps.jpg)
 
 ## Inference latency
