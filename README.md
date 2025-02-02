@@ -26,7 +26,7 @@ test script:
 
 ## Inference Latency
 
-Exported onnx: [Google Drive](https://drive.google.com/file/d/1qefFlah6PkKPtz0Zgh9aqn0rqITjU2C8/view?usp=sharing)
+Exported onnx: [Google Drive](https://drive.google.com/file/d/1qefFlah6PkKPtz0Zgh9aqn0rqITjU2C8/view?usp=sharing). Trt Latency based on onnx: [Google Drive](https://drive.google.com/file/d/1NJPv2_HDk6B01dZ0g0tOXIxc5zFzz4Wd/view?usp=sharing).
 
 ![](./resources/fastbev++_onnx_arch.jpg)
 
