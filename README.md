@@ -19,6 +19,7 @@ test script:
 ## Main Results
 
 ![](./resources/fastbev++_exps.jpg)
+![](./resources/fastbev++_result.png)
 
 ## Model Zoo
 - [fastbev-r50-cbgs](https://drive.google.com/drive/folders/1AYtoX8XaNg8ZckFBgbo2TVmyXb26Dw2V?usp=sharing)
