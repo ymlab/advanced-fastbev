@@ -31,9 +31,15 @@ test script:
 
 Exported onnx: [Google Drive](https://drive.google.com/file/d/1qefFlah6PkKPtz0Zgh9aqn0rqITjU2C8/view?usp=sharing). Trt Latency based on onnx: [Google Drive](https://drive.google.com/file/d/1NJPv2_HDk6B01dZ0g0tOXIxc5zFzz4Wd/view?usp=sharing).
 
+**FastBEV++ ONNX Architecture**
 ![](./resources/fastbev++_onnx_arch.jpg)
 
-![](./resources/fastbev++_latency.jpg)
+**Performance Comparison**
+![](./resources/fastbev_vs_fastvec++_v2.0.png)
+
+**FastBEV++ Latency**
+![](./resources/Fastbev++R50_Latency.png)
+
 
 ## Acknowledgement
 
