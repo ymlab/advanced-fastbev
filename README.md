@@ -1,5 +1,7 @@
 # FastBEV++
+[FastBEV++: Fast by Algorithm, Deployable by Design](https://arxiv.org/abs/2512.08237v1)
 
+![](./resources/fastbev_vs_fastvec++_v2.0.png)
 ## Get Started
 
 Please prepare the training environment according to [BEVDet](https://github.com/HuangJunJie2017/BEVDet?tab=readme-ov-file#get-started).  
@@ -33,9 +35,6 @@ Exported onnx: [Google Drive](https://drive.google.com/file/d/1qefFlah6PkKPtz0Zg
 
 **FastBEV++ ONNX Architecture**
 ![](./resources/fastbev++_onnx_arch.jpg)
-
-**Performance Comparison**
-![](./resources/fastbev_vs_fastvec++_v2.0.png)
 
 **FastBEV++ Latency**
 ![](./resources/Fastbev++R50_Latency.png)
